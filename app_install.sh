@@ -1,5 +1,8 @@
 #! /usr/bin/env bash
 
+# Add a comment to test changes
+
+
 echo Please provide the following details on your lab environment.
 echo
 echo "What is the address of your Mantl Control Server?  "
