@@ -1,6 +1,7 @@
 #! /usr/bin/env bash
 
 # Add a comment to test changes
+# Add another comment - still testing...
 
 
 echo Please provide the following details on your lab environment.
